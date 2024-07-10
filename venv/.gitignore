@@ -1,0 +1,7 @@
+
+# Ignorar todo excepto algunos archivos esenciales
+!/.gitignore
+!/bin/
+!/lib/
+!/include/
+
